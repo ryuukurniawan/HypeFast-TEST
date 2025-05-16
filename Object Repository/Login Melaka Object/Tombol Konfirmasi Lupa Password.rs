@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol Konfirmasi Lupa Password</name>
+   <tag></tag>
+   <elementGuidId>e3b15299-18d4-4763-8c9b-b2f37829dc48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>40867ef1-d6a5-4643-a5a8-c4c42f3c08c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>3ba65072-2652-4c1b-9d77-252725fd1ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl</value>
+      <webElementGuid>2188ebf9-3d6f-4812-bc79-f0d0d0c96d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>forgot-password__button__send-instruction</value>
+      <webElementGuid>28b190bd-34fe-46d8-bccf-cd2ca93c57db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim Instruksi</value>
+      <webElementGuid>804b9636-02de-4724-81fd-ededfc3c12b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;bg-blue-B500 z-1 mx-auto -mt-[90px] flex min-h-screen w-full justify-center px-5 md:px-6 2xl:items-center&quot;]/form[@class=&quot;bg-neutral-N0 mt-[100px] flex h-max max-w-lg flex-col gap-6 rounded-2xl p-6 md:mt-[100px] md:p-24&quot;]/button[@class=&quot;group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl&quot;]</value>
+      <webElementGuid>164f62ca-6188-41c8-a3f9-e8e4b119b20f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>3d3d5c16-bead-4c2e-93b0-2c6b0b004fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/form/button</value>
+      <webElementGuid>96d02b60-5ea4-4096-b068-870b984b03e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
+      <webElementGuid>b35f890b-992d-4a7e-a990-1d0b643d79dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/following::button[1]</value>
+      <webElementGuid>83702e00-8027-41a1-be92-e0466983fb7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>13a7404c-f156-4cf2-a567-844d1818e2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Kirim Instruksi' or . = 'Kirim Instruksi')]</value>
+      <webElementGuid>fc36f7e9-e24e-49c8-8b1f-40046381b635</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

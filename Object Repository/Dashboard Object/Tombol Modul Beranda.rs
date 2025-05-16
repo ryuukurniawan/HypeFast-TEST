@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol Modul Beranda</name>
+   <tag></tag>
+   <elementGuidId>86c6b8db-1513-480f-a4df-574fa519f549</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/aside/div/nav/a/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.inline-flex.w-full.items-center.gap-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1404b75c-5579-47bc-9e1b-8bdac35a70fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex w-full items-center gap-2</value>
+      <webElementGuid>a54fa9f1-3489-4f26-b402-6b308da24585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beranda</value>
+      <webElementGuid>817df724-fcd2-4622-b704-0902bd63177f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;hidden md:block&quot;]/aside[@class=&quot;bg-neutral-N0 border-neutral-N200 z-10 min-h-screen border-r md:fixed md:inset-y-0 md:flex md:w-[248px] md:flex-col&quot;]/div[@class=&quot;flex flex-grow flex-col overflow-y-auto&quot;]/nav[@class=&quot;mr-2 flex flex-1 flex-col gap-1&quot;]/a[@class=&quot;group block w-full cursor-pointer overflow-hidden rounded-r-xl&quot;]/span[@class=&quot;flex min-h-[2.5rem] items-center gap-4 rounded bg-blue-B100 gap-[10px] py-2 pr-2 pl-6&quot;]/span[@class=&quot;text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] w-full text-left text-he&quot;]/span[@class=&quot;inline-flex w-full items-center gap-2&quot;]</value>
+      <webElementGuid>0a78537f-f339-4813-a5b2-72619b09bda5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/aside/div/nav/a/span/span/span</value>
+      <webElementGuid>8ee9057a-438c-4fe5-acc6-4086f907743f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwalkan Demo'])[1]/following::span[3]</value>
+      <webElementGuid>5b674c77-7718-48c6-951f-ea9d869a440d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saldo Saya'])[1]/preceding::span[1]</value>
+      <webElementGuid>ba4f3230-99d9-4277-9a1c-4d0833e8d762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Saya'])[1]/preceding::span[4]</value>
+      <webElementGuid>09340445-c9b8-408c-843f-ce461b694877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beranda']/parent::*</value>
+      <webElementGuid>4ea40c60-8cdb-409e-b0fc-a60ec6eeb6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>b53fca1b-9afc-4b81-8e09-67137686c64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Beranda' or . = 'Beranda')]</value>
+      <webElementGuid>489d180b-6bb2-4664-ad9a-62441e3fca0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

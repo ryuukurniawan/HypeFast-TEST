@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengujian pada alur kelola tim sales</description>
+   <name>Tim Sales Melaka (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d18756b-b564-4091-9ba4-84d9cf689f29</testCaseGuid>
+</TestCaseEntity>

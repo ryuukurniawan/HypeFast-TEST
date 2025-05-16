@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur login dapat berjalan dengan lancar</description>
+   <name>Login Melaka (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e537718-d4ba-462a-8a69-7d212fd83c1a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6fb3de6-c0fd-4a21-8634-135c0a424c23</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb4e0e60-ea83-4b3d-b682-d91925f08fac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6fb3de6-c0fd-4a21-8634-135c0a424c23</id>
+      <masked>false</masked>
+      <name>emailLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cb4e0e60-ea83-4b3d-b682-d91925f08fac</id>
+      <masked>false</masked>
+      <name>passwordLogin</name>
+   </variable>
+</TestCaseEntity>

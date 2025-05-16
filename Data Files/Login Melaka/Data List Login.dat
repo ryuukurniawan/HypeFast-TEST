@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data untuk membantu dalam melakukan testing pada halaman login</description>
+   <name>Data List Login</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a5c82a31-c618-48d1-95cc-55e54038aa05</dataFileGUID>
+   <dataSourceUrl>C:\Users\ryuur\Documents\Ryuu Working Space\Adhikari QA\Data Testing\Data list login melaka.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Negative</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

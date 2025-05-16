@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Pilih dan Lanjutkan</name>
+   <tag></tag>
+   <elementGuidId>6824da18-5948-46e5-9b99-328b77b885d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cbffee09-3ddd-40cf-a6ee-8652596bc6d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34a6d831-0b54-4a66-9d91-469defa51fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl w-full</value>
+      <webElementGuid>8028d127-06bc-4127-8a29-3cb30eacf66c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>add-product-modal__button__submit</value>
+      <webElementGuid>f37fdb52-aca9-4b09-a325-83fa33d4d749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih dan Lanjutkan</value>
+      <webElementGuid>7e0db1dd-c585-46bd-9027-ae9376bfdc9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r43:&quot;)/div[@class=&quot;min-h-dvh flex&quot;]/div[@class=&quot;md:shadow-elevation-1 shadow-elevation-2 bg-neutral-N0 z-[1] mx-auto mt-16 max-h-[calc(100dvh-4rem)] w-full self-end rounded-t-3xl p-6 md:my-auto md:rounded-lg md:max-w-[552px] opacity-100 translate-y-0 md:scale-100&quot;]/div[@class=&quot;no-scrollbar h-auto max-h-[calc(100dvh-10rem)] overflow-auto md:max-h-[calc(70dvh-4rem)] md:pb-0 text-he flex flex-col gap-6 md:max-h-max&quot;]/div[@class=&quot;flex w-full flex-col gap-4 md:flex-row-reverse&quot;]/button[@class=&quot;group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl w-full&quot;]</value>
+      <webElementGuid>17c97150-ecdb-45e9-a576-5503654cc807</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>955f6c50-69df-4dd7-8db8-3986b4102ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r43:']/div/div[2]/div[2]/div[3]/button</value>
+      <webElementGuid>ed0e26d0-2ac5-42a4-89a0-e4db7513b6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload File'])[2]/following::button[1]</value>
+      <webElementGuid>e89fafa0-8c63-410e-aed3-7c156b6ae2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload File'])[1]/following::button[1]</value>
+      <webElementGuid>5debcf7a-8c03-4a40-a9dc-57726265ce48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
+      <webElementGuid>8010e57c-82ea-43bb-8b89-81ff28c5ea73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/button</value>
+      <webElementGuid>bfb2ac25-25fb-4705-a076-bf94604353b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih dan Lanjutkan' or . = 'Pilih dan Lanjutkan')]</value>
+      <webElementGuid>6a2e8475-d187-4756-a23e-d2bebc94146d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

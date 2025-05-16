@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Form Nama Produk</name>
+   <tag></tag>
+   <elementGuidId>2d944089-44de-4c63-86c2-6ef47c027c86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='Nama Produk-:r4k:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>6075e7a6-af69-4d7b-ac75-db6239234f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Nama Produk-:r4k:</value>
+      <webElementGuid>22b9358e-48c4-478c-9633-1794d55e67ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nama Produk</value>
+      <webElementGuid>2dec29ba-8ad4-486b-bf9a-ea288522977d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>255</value>
+      <webElementGuid>7f9fac56-8bf3-4762-adaa-70163dd1428e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>a70dbf4d-b5a6-4209-ba55-f6b5cd6287be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-disabled border-neutral-N300 enabled:text-he peer block w-full resize-none rounded border p-4 text-base leading-6 placeholder-transparent enabled:focus:outline-none enabled:focus:ring-1 enabled:focus:border-blue-B700 enabled:focus:ring-blue-B700 placeholder:text-le</value>
+      <webElementGuid>b3c49f90-fb8c-4731-8057-0b28d5b37069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4c4588d4-2ce4-401b-a0f4-5791bf066aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>melaka-add-product__field__product-name-value</value>
+      <webElementGuid>e419232d-2cce-474b-b119-bb29a1837633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Nama Produk-:r4k:&quot;)</value>
+      <webElementGuid>587f34a7-9913-41ae-9be5-622c953d081c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='Nama Produk-:r4k:']</value>
+      <webElementGuid>ae5c3510-ff79-4085-b3f2-e018983b89b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-tabs-panel-:r4j:']/div/div/div[2]/div[2]/div/div/textarea</value>
+      <webElementGuid>59bf4813-2243-4acd-afa0-eee01cae740b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>44925760-058e-4cf6-863c-6de9d566da17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'Nama Produk-:r4k:' and @placeholder = 'Nama Produk']</value>
+      <webElementGuid>d8c3f3bb-9967-4510-90e8-cbca692750f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

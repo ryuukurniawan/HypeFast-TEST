@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tombol Tambah Data Manual</name>
+   <tag></tag>
+   <elementGuidId>2e55f0fc-5746-49e6-b066-72a6e8061de8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-:r43:']/div/div[2]/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.gap-2.select-none</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c96eff1-4558-47b7-b23c-6798cb471d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-2 select-none</value>
+      <webElementGuid>7c00a3e4-9951-4267-933d-93c26a58966d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>add-product-modal__radio-button-tambah-manual</value>
+      <webElementGuid>851b7c9b-1025-4215-9b46-cb46368d2336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah ManualIsi data dan tambahkan produk satu per satu.</value>
+      <webElementGuid>97b8e403-5105-4eea-9372-405acc4bd253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r43:&quot;)/div[@class=&quot;min-h-dvh flex&quot;]/div[@class=&quot;md:shadow-elevation-1 shadow-elevation-2 bg-neutral-N0 z-[1] mx-auto mt-16 max-h-[calc(100dvh-4rem)] w-full self-end rounded-t-3xl p-6 md:my-auto md:rounded-lg md:max-w-[552px] opacity-100 translate-y-0 md:scale-100&quot;]/div[@class=&quot;no-scrollbar h-auto max-h-[calc(100dvh-10rem)] overflow-auto md:max-h-[calc(70dvh-4rem)] md:pb-0 text-he flex flex-col gap-6 md:max-h-max&quot;]/div[@class=&quot;flex items-start gap-2&quot;]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-col gap-2 select-none&quot;]</value>
+      <webElementGuid>1c4a28cb-1cbc-4a8c-aa31-effe3f030500</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r43:']/div/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>3b5f14f0-8519-4b75-9db7-6faf01ddde0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Manual'])[1]/following::div[2]</value>
+      <webElementGuid>34279427-2354-4471-9e48-96fa311f074b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[5]</value>
+      <webElementGuid>a9e0f359-9b96-4b7f-b5d6-2157fbb7af47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload File'])[1]/preceding::div[2]</value>
+      <webElementGuid>0cca8466-9e20-4757-ad3f-991fbff805bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>0b29767a-9a58-43a9-b3b1-d10e26689761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tambah ManualIsi data dan tambahkan produk satu per satu.' or . = 'Tambah ManualIsi data dan tambahkan produk satu per satu.')]</value>
+      <webElementGuid>30dcc8da-d8e0-45e7-b624-eccee2dc1218</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

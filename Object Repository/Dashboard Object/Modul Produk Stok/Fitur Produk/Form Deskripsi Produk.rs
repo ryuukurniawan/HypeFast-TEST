@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Form Deskripsi Produk</name>
+   <tag></tag>
+   <elementGuidId>03a867bc-1376-4d30-9375-edd8aecf75e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='Deskripsi Produk-:r4l:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>3eea2aab-1048-41d7-a1fd-c2a3244b5c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Deskripsi Produk-:r4l:</value>
+      <webElementGuid>312c792f-d88c-4564-a057-904d17f43706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tulis deskripsi</value>
+      <webElementGuid>e45e280b-bfef-418e-820a-3712c8d1cfc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-disabled border-neutral-N300 enabled:text-he peer block w-full resize-none rounded border p-4 text-base leading-6 placeholder-transparent enabled:focus:outline-none enabled:focus:ring-1 enabled:focus:border-blue-B700 enabled:focus:ring-blue-B700 placeholder:text-le</value>
+      <webElementGuid>e41604b4-fe78-464d-a920-94f56c70969e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>10000</value>
+      <webElementGuid>b2bbe7da-bdec-4701-b7ad-7a8592eaa20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>4ec25912-0331-4e71-951c-a396912ce08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a88337c1-ced0-473e-8c68-22374710f584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>melaka-add-product__field__product-description-value</value>
+      <webElementGuid>ee34654b-d7e8-4455-acea-909eb669dcdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Deskripsi Produk-:r4l:&quot;)</value>
+      <webElementGuid>db49f29e-36d4-4e1d-babe-783bc5521108</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='Deskripsi Produk-:r4l:']</value>
+      <webElementGuid>f880b21a-1c71-4202-a2de-0dd7b6c9db41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-tabs-panel-:r4j:']/div/div/div[3]/div[2]/div/div/textarea</value>
+      <webElementGuid>2f9c8eae-67be-4a08-838f-4322b1fb007c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/textarea</value>
+      <webElementGuid>706ac38d-4c47-4eff-8c5e-246d1b8c9345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'Deskripsi Produk-:r4l:' and @placeholder = 'Tulis deskripsi']</value>
+      <webElementGuid>3500dbb3-5f3c-4e27-9b9a-dde8e2364581</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

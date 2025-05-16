@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan testing untuk memastikan alur dalam penambahan produk</description>
+   <name>Tambahan Produk Melaka (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37a4f17a-f68f-4fb1-9ce7-2301db403ccb</testCaseGuid>
+</TestCaseEntity>
